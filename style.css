@@ -106,3 +106,59 @@
     padding-right: 300px;
     padding-bottom: 100px;
 }
+
+
+#bodyLogin{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #FFD43E;
+}
+#login{
+    width: 50em;
+    padding: 2em;
+    border-radius: 3em;
+    margin-top: 7em;
+
+    -webkit-box-shadow: 0px 0px 50px 4px rgba(0, 0, 0, 0.78);
+    -moz-box-shadow: 0px 0px 50px 4px rgba(0, 0, 0, 0.78);
+    box-shadow: 0px 0px 50px 4px rgba(0, 0, 0, 0.78);
+    background-color: #ffeba4;
+}
+#login h1{
+    text-align: center; 
+}
+
+/* Página Cadastro */
+#cadastro{
+    width: 40em;
+    padding: 2em;
+    border-radius: 3em;
+    margin-top: 5em;
+    margin-bottom: 5em;
+
+    -webkit-box-shadow: 0px 0px 50px 4px rgba(0, 0, 0, 0.78);
+    -moz-box-shadow: 0px 0px 50px 4px rgba(0, 0, 0, 0.78);
+    box-shadow: 0px 0px 50px 4px rgba(0, 0, 0, 0.78);
+    background-color: #ffeba4;
+}
+#cadastro h1{
+    text-align: center; 
+}
+
+
+/* Página Senha */
+#senhaconf{
+    width: 50em;
+    padding: 2em;
+    border-radius: 3em;
+    margin-top: 9em;
+
+    -webkit-box-shadow: 0px 0px 50px 4px rgba(0, 0, 0, 0.78);
+    -moz-box-shadow: 0px 0px 50px 4px rgba(0, 0, 0, 0.78);
+    box-shadow: 0px 0px 50px 4px rgba(0, 0, 0, 0.78);
+    background-color: #ffeba4;
+}
+#senhaconf h1{
+    text-align: center; 
+}
